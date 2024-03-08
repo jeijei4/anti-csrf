@@ -1,5 +1,5 @@
 {
-    "name":         "paragonie/anti-csrf",
+    "name":         "jeijei4/anti-csrf",
     "description":  "Paragon Initiative's Anti-CSRF Security Library",
     "keywords": [
             "security",
